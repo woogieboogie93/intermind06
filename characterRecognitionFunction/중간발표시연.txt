@@ -1,0 +1,24 @@
+1. 전처리
+
+preprocessing.py
+
+python scan.py -i scan.jpg
+
+
+2. 문자인식
+
+tesseract train.test.exp0.tif result -l eng
+
+tesseract train.test.exp0.tif result -l eng+train
+
+3. 후처리
+
+postprocessing.py
+
+pandoc text.txt -o text.markdown
+
+4. 트래인
+
+train_transaction.py
+
+tesseract train.test.exp0.tif result -l eng+train
