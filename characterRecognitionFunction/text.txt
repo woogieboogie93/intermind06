@@ -1,0 +1,43 @@
+# Intermind
+## Intermind
+### Intermind
+#### Intermind
+##### Intermind
+###### Intermind
+
+> This is a blockqute.
+> This is a blockqute.
+> This is a blockqute.
+
+1. First
+2. Second
+3. Third
+
+2. Second
+3. Third
+1. First
+
+* Red
+	* Green
+		* Blue
+
++ Red
+	+ Green
+		+ Blue
+
+<pre><code>This is a code block.</code></pre>
+
+* * *
+***
+*****
+- - -
+------------------
+
+[link keyword][id]
+[id]: URL "Optional Title here"
+
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
+
+<https://www.google.com/>
+<sonicrs0311@gmail.com>
